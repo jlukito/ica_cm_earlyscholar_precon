@@ -14,4 +14,4 @@
 ## Theory and Computation
 * [Organizational Communication](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/nate_jeremy.pdf)
 * [NLP with Frames, Discourses, and Agendas](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/6_framing_nlp.pdf)
-* [Partisan Bias in Media Use]()
+* Partisan Bias in Media Use
