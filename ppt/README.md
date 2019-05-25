@@ -9,7 +9,7 @@
 
 ## Technical Considerations
 * [Your Text Analysis Pipeline and You](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/3_textanalysispipeline.pdf)
-* [Data Retrieval and Mgmt]()
+* [Science vs Engineering](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/science_versus_eng.pdf.pdf)
 
 ## Theory and Computation
 * [Organizational Communication](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/nate_jeremy.pdf)
