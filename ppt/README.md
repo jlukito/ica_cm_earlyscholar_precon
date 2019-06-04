@@ -4,7 +4,7 @@
 * [Early Scholar Precon Intro](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/0_intro.pdf)
 
 ## Learn, Teach, Code, Repeat (Formerly "Learning to Code")
-* [Becoming a Computational Scholar](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/1_becoming_a_computational_scholar.pdf)
+* [Becoming a Computational Scholar](https://github.com/jlukito/ica_cm_earlyscholar_precon/blob/master/ppt/1_Becoming%20a%20Computational%20Communication%20Scholar_Lind_Boomgaarden.pdf)
 * [Teaching Computational Methods and Tools](https://t.co/iD0W9xvM9S)
 
 ## Technical Considerations
